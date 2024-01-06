@@ -8,5 +8,7 @@ namespace LuuTienDat_174.Models{
         public string MaSinhVien { get; set; }
         public int SoBaoDanh { get; set; }
         public double Diem { get; set; }
+        public ICollection<SinhVienHumg>? SinhVienHumg {get; set;}
+        
     }
 }

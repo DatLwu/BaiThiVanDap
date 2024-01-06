@@ -17,59 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LuuTienDat_174
 build_property.RootNamespace = LuuTienDat_174
-build_property.ProjectDir = d:\PTPM\LuuTienDat_174\
+build_property.ProjectDir = D:\PTPM\LuuTienDat_174\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\PTPM\LuuTienDat_174
+build_property.MSBuildProjectDirectory = D:\PTPM\LuuTienDat_174
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/PTPM/LuuTienDat_174/Views/Home/Index.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/Home/Privacy.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/Shared/Error.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/SinhVien/Create.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/SinhVienHumg/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5IdW1nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPM/LuuTienDat_174/Views/SinhVienHumg/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5IdW1nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPM/LuuTienDat_174/Views/SinhVienHumg/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5IdW1nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPM/LuuTienDat_174/Views/SinhVienHumg/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5IdW1nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPM/LuuTienDat_174/Views/SinhVienHumg/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5IdW1nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPM/LuuTienDat_174/Views/SinhVien/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/SinhVien/Delete.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/SinhVien/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/SinhVien/Details.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/SinhVien/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/SinhVien/Edit.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/SinhVien/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/SinhVien/Index.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/SinhVien/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/_ViewImports.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/_ViewStart.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/LuuTienDat_174/Views/Shared/_Layout.cshtml]
+[D:/PTPM/LuuTienDat_174/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cfysrziqte

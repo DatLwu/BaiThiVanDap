@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LuuTienDat_174.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240106064800_Create_Table_SinhVien")]
+    [Migration("20240106071027_Create_Table_SinhVien")]
     partial class Create_Table_SinhVien
     {
         /// <inheritdoc />
