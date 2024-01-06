@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zuVnKKP7ps2fzXPk+2B56JIaeo+eox3To6OT29WTeypoR6pioI9F9DlJgGObeuI4oTXcX51mtpLk5ngh4rmC0g==",
+  "dgSpecHash": "J24TOcxyMbXQxno/7Dd3RE0gD02KT5g85mkUHQgxs+6G80w1Cfpi2t0MXEM+utcm3NRpdM/EncNcwZXEPIcbCQ==",
   "success": true,
-  "projectFilePath": "d:\\PTPM\\LuuTienDat_174\\LuuTienDat_174.csproj",
+  "projectFilePath": "D:\\PTPM\\LuuTienDat_174\\LuuTienDat_174.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win10\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Win10\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

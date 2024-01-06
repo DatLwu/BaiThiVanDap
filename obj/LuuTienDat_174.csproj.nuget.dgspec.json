@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\PTPM\\LuuTienDat_174\\LuuTienDat_174.csproj": {}
+    "D:\\PTPM\\LuuTienDat_174\\LuuTienDat_174.csproj": {}
   },
   "projects": {
-    "d:\\PTPM\\LuuTienDat_174\\LuuTienDat_174.csproj": {
+    "D:\\PTPM\\LuuTienDat_174\\LuuTienDat_174.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PTPM\\LuuTienDat_174\\LuuTienDat_174.csproj",
+        "projectUniqueName": "D:\\PTPM\\LuuTienDat_174\\LuuTienDat_174.csproj",
         "projectName": "LuuTienDat_174",
-        "projectPath": "d:\\PTPM\\LuuTienDat_174\\LuuTienDat_174.csproj",
+        "projectPath": "D:\\PTPM\\LuuTienDat_174\\LuuTienDat_174.csproj",
         "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-        "outputPath": "d:\\PTPM\\LuuTienDat_174\\obj\\",
+        "outputPath": "D:\\PTPM\\LuuTienDat_174\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config"
